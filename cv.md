@@ -12,27 +12,27 @@ I am constantly learning. I have been striving to learning not only in testing a
 
 ***Hardskills:*** 
 1. *I have a basic knowledge in:*
-JavaScript, 
-HTML, 
-CSS. 
+* JavaScript, 
+* HTML, 
+* CSS. 
 2. *I can work with:* 
-Postman, 
-Git (GitBash, GitHub), 
-Jira,
-TestRail.
+* Postman, 
+* Git (GitBash, GitHub), 
+* Jira,
+* TestRail.
 3. *I know the theory of testing well (types and levels of testing).*
 4. *I can write check-lists, test cases, test plans and bug reports.*
 5. *I understand Test Design Technics such as* 
-Equivalence Class Testing, 
-Boundary Value Testing, 
-Decision Table Testing, 
-State-Transition Testing, 
-Pairwise testing.
+* Equivalence Class Testing, 
+* Boundary Value Testing, 
+* Decision Table Testing, 
+* State-Transition Testing, 
+* Pairwise testing.
 6. *I can write a simple SQL requests and a simple autotests in Selenium.*
 
 ***Education***
 I have a higher education. I graduated from the Faculty of Economics and Management of the Belarussian Trade and Economic University of Consumer Cooperatives. 
-A specialize courses about Testing of software 
+A specialize courses about Testing of software: 
 * in BELHARD Academy,
 * course of QA Engineer by Vadim Ksendzov,
 * course 'Bacic knowledge of JavaScript' by Bogdan Staschuk.
