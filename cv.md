@@ -29,3 +29,17 @@ Decision Table Testing,
 State-Transition Testing, 
 Pairwise testing.
 6. *I can write a simple SQL requests and a simple autotests in Selenium.*
+
+***Education***
+I have a higher education. I graduated from the Faculty of Economics and Management of the Belarussian Trade and Economic University of Consumer Cooperatives. 
+A specialize courses about Testing of software 
+* in BELHARD Academy,
+* course of QA Engineer by Vadim Ksendzov,
+* course 'Bacic knowledge of JavaScript' by Bogdan Staschuk.
+
+***Link to my code on GitHub:***
+[link to my repository of Practice in JS](https://github.com/IrynaS1/Practice_in_JS.git).
+
+***Languages:*** 
+- english - A2 (in progress),
+- russian - native.
